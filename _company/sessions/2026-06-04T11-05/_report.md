@@ -1,4 +1,4 @@
-# 💻 코다리 — [A.U 히든 커맨드: 💻 코다리 에이전트가 방금 '강아지사주 (Korean Astrology AI Service)' 템플릿 팩 주입받았습니다. 코드 boilerplate 1개 파일 + README. 매트릭스 톤으로 한 줄. "💻 코다리, 강아지사주 (Korean Astrology AI Service) 템플릿 1개 파일 장착. 다음 작업에 자동 활용." 부가 설명 X.]
+# 📝 CEO 종합 보고서
 
 💻 코다리: 명시적 호출 + 매칭 키트 발견. LLM 우회 — 시스템이 직접 `doggie-mystic-kit` 적용합니다.
 
@@ -21,6 +21,7 @@
 ```
 📋 키트: 강아지사주 (Doggie Mystic) → /Users/jeonghoeseok/connect-ai-projects/doggie-mystic
 📋 기반: vanilla HTML + Gemini API + PayPal SDK + Imagen 3
+📋 기존 파일 1개 .backup 보존: index.html
 ⚠️  ⚠️  운영자 자격증명 누락 — 키트는 복사됐지만 실제 호출은 안 됨:
 ⚠️     • __GEMINI_API_KEY__ → Connect AI → 외부 연결 → ✨ Google Gemini → API Key 입력
 ⚠️     • __PAYPAL_CLIENT_ID__ → Connect AI → 외부 연결 → 💰 PayPal → Client ID 입력

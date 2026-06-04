@@ -21,6 +21,7 @@
 ```
 📋 키트: 강아지사주 (Doggie Mystic) → /Users/jeonghoeseok/connect-ai-projects/doggie-mystic
 📋 기반: vanilla HTML + Gemini API + PayPal SDK + Imagen 3
+📋 기존 파일 1개 .backup 보존: index.html
 ⚠️  ⚠️  운영자 자격증명 누락 — 키트는 복사됐지만 실제 호출은 안 됨:
 ⚠️     • __GEMINI_API_KEY__ → Connect AI → 외부 연결 → ✨ Google Gemini → API Key 입력
 ⚠️     • __PAYPAL_CLIENT_ID__ → Connect AI → 외부 연결 → 💰 PayPal → Client ID 입력
