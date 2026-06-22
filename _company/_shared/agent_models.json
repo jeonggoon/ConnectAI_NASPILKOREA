@@ -1,12 +1,12 @@
 {
   "ceo": "gemma4:e2b",
-  "youtube": "gemma4:e2b",
-  "instagram": "gemma4:e2b",
+  "youtube": "gemma2:9b",
+  "instagram": "gemma2:9b",
   "designer": "gemma4:e2b",
-  "developer": "gemma4:e2b",
-  "business": "gemma4:e2b",
+  "developer": "gemma2:9b",
+  "business": "gemma2:9b",
   "secretary": "gemma4:e2b",
-  "editor": "gemma4:e2b",
-  "writer": "gemma4:e2b",
-  "researcher": "gemma4:e2b"
+  "editor": "gemma2:9b",
+  "writer": "gemma2:9b",
+  "researcher": "gemma2:9b"
 }
